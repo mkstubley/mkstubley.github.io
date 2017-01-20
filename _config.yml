@@ -241,6 +241,23 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
+
+# Prose
+prose:
+  rooturl: '_posts'
+  siteurl: 'http://mksubley.github.io/'
+  ignore:
+     - index.md
+    - _config.yml
+    - /_layouts
+    - /_includes
+  metadata:
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "single"
+          
