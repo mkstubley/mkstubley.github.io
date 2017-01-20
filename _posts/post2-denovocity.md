@@ -1,7 +1,7 @@
 ---
 published: true
 layout: single
-title: post 2
+title: 2017-01-post2.md
 ---
 ## A New Post
 
