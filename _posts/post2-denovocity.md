@@ -1,6 +1,7 @@
 ---
 published: true
 layout: single
+title: test post 2
 ---
 ## A New Post
 
