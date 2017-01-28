@@ -15,6 +15,9 @@
       {% if s.title %}<h3>{{ s.title }}</h3>{% endif %}
       {% if s.text %}{{ s.text | markdownify }}{% endif %}
     {% endfor %}
+    {% if page.sidebar %}
+      <iframe src="https://embed.spotify.com/?uri=spotify:user:12130029879:playlist:6f92i4qm2fcsUFEl5OVkiG&theme=white" width="300" height="390"></iframe>
+    {% endif %}
     {% if page.sidebar.nav %}
       {% include nav_list nav=page.sidebar.nav %}
     {% endif %}
