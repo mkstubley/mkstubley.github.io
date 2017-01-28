@@ -11,13 +11,13 @@ title                    : "denovocity"
 title_separator          : "-"
 name                     : "denovocity"
 description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://mkstubley.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
-comments: 
+comments:
   provider               : "disqus"
   disqus:
     shortname            : "denovocity" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
@@ -54,7 +54,7 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter: 
+twitter:
   username               : "denovocity"
 facebook:
   username               :
@@ -70,9 +70,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "UA-91051046-1"
 
 
 # Site Author
@@ -80,7 +80,7 @@ author:
   name             : "denovocity"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "[de-noh-VAUHS-ity] adverb, Latin. <br>1. tenacious but sporadically updated music blog <br>2.a made-up word drawn from modest mouse lyrics"
-  location         : 
+  location         :
   email            :
   uri              :
   bitbucket        :
@@ -257,4 +257,3 @@ prose:
         field:
           element: "text"
           value: "your title here"
-

@@ -1,7 +1,24 @@
 <meta charset="utf-8">
 
 {% include seo.html %}
+<style>
+.sf-hide{
+  display: none;
+}
+.sf-show{
+  display: block;
+}
 
+@@media (max-width:768) {
+  .sf-hide{
+    display: block;
+  }
+  .sf-show{
+    display: none;
+  }
+}
+
+</style>
 <link href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | absolute_url }}{% endif %}" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
 
 <!-- http://t.co/dKP3o1e -->
