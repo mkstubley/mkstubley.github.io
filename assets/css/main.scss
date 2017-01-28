@@ -1,6 +1,23 @@
 ---
 ---
 
+.sf-hide{
+  display: none;
+}
+.sf-show{
+  display: block;
+}
+
+@media only screen and (max-width:768) {
+  .sf-hide{
+    display: block;
+  }
+  .sf-show{
+    display: none;
+  }
+}
+
+
 /*
  *    Minimal Mistakes Jekyll Theme
  *
