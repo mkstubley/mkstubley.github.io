@@ -8,7 +8,16 @@
   display: block;
 }
 
-@media all and (max-width: 900px){
+@media all and (max-width: 1024px){
+  .sf-hide{
+    display: block;
+  }
+  .sf-show{
+    display: none;
+  }
+}
+
+@media screen and (max-width: 1024px){
   .sf-hide{
     display: block;
   }
