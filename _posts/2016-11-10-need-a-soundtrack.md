@@ -8,4 +8,4 @@ If you’re in need of a soundtrack to ugly cry along with tonight (#ImStillWith
 
 Listen to May/June 2016 here: https://play.spotify.com/user/12130029879/playlist/2T6yyWKvHFTQeLvdnr8u40
 
-{% include spotifyPlaylist.html userid=12130029879 playlistid=2T6yyWKvHFTQeLvdnr8u40 %}
+{% include spotifyPlaylist.html userid="12130029879" playlistid="2T6yyWKvHFTQeLvdnr8u40" %}
