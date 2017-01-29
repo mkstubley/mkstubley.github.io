@@ -10,4 +10,5 @@ Dirty Projectors released a new song and accompanying video today, and man, watc
 
 I’ve been a fan of Dave / Dirty Projectors since the mathematically perfected composition of Bitte Orca, and his recent shift to autotuned R&B is not necessarily bad, just different. Maybe I dislike it a little because it’s reminiscent of so many similar Brooklyn artists? Or because there are a couple long shots in the video that could be Beats headphones advertisements? Idk. If we’re being honest though, I am excited to hear more – solely on the basis that it’s a breakup album.  
 
-Watch “Little Bubble”: <iframe width="560" height="315" src="https://www.youtube.com/embed/2IG5f50olZA" frameborder="0" allowfullscreen></iframe>
+Watch “Little Bubble”: 
+{% include youtubePlayer.html id="2IG5f50olZA" %}
