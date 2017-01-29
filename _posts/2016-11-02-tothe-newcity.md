@@ -2,6 +2,7 @@
 published: true
 layout: single
 title: to the new city:
+date: 2016-11-02
 ---
 Oh, hey. My name is Mikala and I’m really into music. This is a side project that originated in my desire to stop spamming friends on social media with “you need to listen to this!!1!” types of posts.
 
