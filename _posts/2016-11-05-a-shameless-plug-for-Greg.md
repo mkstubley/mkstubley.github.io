@@ -8,13 +8,16 @@ The orchestral nerd buried in my inner psyche wants to pipe up and tell you to c
 
 His albums are auditory *saudade* for long gone people and places, and a must-listen for anyone with poetic inclinations - or for lovers of melancholy in general.
 
-*you were a phonograph, i was a kid
-i sat with an ear close, just listening
-i was there when the rain tapped her way down your face
+*you were a phonograph, i was a kid<br>
+i sat with an ear close, just listening<br>
+i was there when the rain tapped her way down your face<br>
 you were a miracle...i was just holdin’ your space*
 
-This Empty Northern Hemisphere: <iframe width="560" height="315" src="https://www.youtube.com/embed/ffrz7XUCUr0" frameborder="0" allowfullscreen></iframe>
+This Empty Northern Hemisphere: 
+{% include youtubePlayer.html id="ffrz7XUCUr0" %}
 
-Liars, ft. the Colorado Symphony Orchestra: <iframe width="560" height="315" src="https://www.youtube.com/embed/LOGmE7bKH8c" frameborder="0" allowfullscreen></iframe>
+Liars, ft. the Colorado Symphony Orchestra: 
+{% include youtubePlayer.html id="LOGmE7bKH8c" %}
 
-Covering “The Trapeze Swinger”: <iframe width="560" height="315" src="https://www.youtube.com/embed/USom8PhOXgs" frameborder="0" allowfullscreen></iframe>
+Covering “The Trapeze Swinger”: 
+{% include youtubePlayer.html id="USom8PhOXgs" %}
