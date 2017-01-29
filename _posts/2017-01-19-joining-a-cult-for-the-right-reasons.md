@@ -8,4 +8,4 @@ Zolita, a talented pop singer-songwriter, recently posted an emotionally fraught
 
 Watch here: https://www.youtube.com/watch?v=hdYiYjuf0ko
 
-{% include youtubePlayer.html id=hdYiYjuf0ko %}
+{% include youtubePlayer.html id="hdYiYjuf0ko" %}
