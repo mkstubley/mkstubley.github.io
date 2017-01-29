@@ -10,12 +10,12 @@ I’ve been a huge fan of Allison Crutchfield since [her response](http://www.im
 The overall vibe of the album is one of reflection through untethered nostalgia, which certainly justifies the divine cover art; past events seem clearer when seen from the future, not in an immediate objectivity but in the appeal of being washed clean in the haloed light of nostalgia. No one wants to remember the bad parts of a relationship, and going through the process of measured evaluation is necessary in order to arrive at the detached place where there is room to grow and move on. Crutchfield walks us through the last chords of a relationship in ‘Broad Daylight’, the reminiscence guided by the pulsing drums in ‘Dean’s Room’. The veil is lifted in ‘Mile Away’, as we are forced to reckon with the aftermath grounded in reality, and Allison’s voice rises over the synth to lament “...your prized radical opinions, you assume you understand because your voice is the loudest”. In the end we end up in a stable, if mutually unrecognizable, place. Isn’t that the ideal?
 
 from ‘Expatriate’:
-I know people change
-And we’re both moving on
-I can’t be involved in this, you were my only family
-Now you feel foreign in a way, an expatriate
+I know people change<br>
+And we’re both moving on<br>
+I can’t be involved in this, you were my only family<br>
+Now you feel foreign in a way, an expatriate<br>
 
-Listen to *Tourist in This Town*: bandcamplink
+Listen to *Tourist in This Town*: <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3086751215/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://allisoncrutchfield.bandcamp.com/album/tourist-in-this-town">Tourist in This Town by Allison Crutchfield</a></iframe>
 
 \*sorry for the tangent, the misogynistic “cool girl” attitude really rustles my jimmies. [Here is the article in question.](https://noisey.vice.com/en_us/article/how-to-survive-being-the-only-girl-in-a-band)
 
