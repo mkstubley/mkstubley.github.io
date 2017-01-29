@@ -21,7 +21,7 @@ Torres – HOW did I not know about Torres until recently. Mackenzie Scott just 
 
 Voxtrot – Okay I was going through some suuuuper old playlists, and this is one of my fave bands from ~2010. Voxtrot also broke up around then (typical), but their EPs remain solidly danceable indie pop.  
 
-spotifyplaylisthere
+{% include spotifyPlaylist.html userid="12130029879" playlistid="6f92i4qm2fcsUFEl5OVkiG" %}
 
 \*I love this quote on their bandcamp page: 
 
