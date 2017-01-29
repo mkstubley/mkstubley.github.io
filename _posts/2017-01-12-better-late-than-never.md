@@ -57,4 +57,4 @@ The Tallest Man on Earth – Rivers
 
 Leonard Cohen – You Want It Darker
 
-spotifyplayerlink 
+{% include spotifyPlaylist.html userid="12130029879" playlistid="4h12p5EI2dt4SZd1RyB7Bd" %}
