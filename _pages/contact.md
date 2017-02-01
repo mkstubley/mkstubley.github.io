@@ -5,9 +5,13 @@ permalink: /contact/
 ---
 
 <div style="max-width:500px;">
-<form action="https://formspree.io/denovocity@gmail.com" method="POST">
-    <input type="text" name="name" placeholder="Your email">
-    <input type="email" name= "_replyto" placeholder="Your message" style="min-height:200px;">
-    <input type="submit" value="Send" ">
+<form method="POST" action="http://formspree.io/denovocity@gmail.com">
+  Name
+  <input type="name" name="name" placeholder="Your name">
+  Email
+  <input type="email" name="email" placeholder="Your email">
+  Message
+  <textarea name="message" placeholder="Your message"></textarea>
+  <button type="submit">Send</button>
 </form>
 <div>
