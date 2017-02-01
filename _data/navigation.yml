@@ -1,16 +1,10 @@
 # main links
 main:
-  - # title: "Quick-Start Guide"
-    # url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "About"
+    url: /about/
+  - title: "Contact"
+    url: /contact/
+
 sidebar:
-  title: "denovocity <br>[de-noh-VAUHS-ity] adverb, Latin. <br>1. tenacious but sporadically updated music blog <br>2.a made-up word drawn from modest mouse lyrics" 
+  title: "denovocity <br>[de-noh-VAUHS-ity] adverb, Latin. <br>1. tenacious but sporadically updated music blog <br>2.a made-up word drawn from modest mouse lyrics"
   # playlist: "<iframe src="https://embed.spotify.com/?uri=spotify:user:12130029879:playlist:6f92i4qm2fcsUFEl5OVkiG&theme=white" width="300" height="390"></iframe>"
-  
