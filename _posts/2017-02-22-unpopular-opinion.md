@@ -15,4 +15,4 @@ Listen to Lana’s new song, ‘Love’, here:
 
 
 
-\*related: I also really dislike Coachella - not a surprise considering it's the same audience of drunk narcisstic rich kids sporting flower crowns. 
+\*related: I also really dislike Coachella - not a surprise considering it's the same audience of drunk narcissistic rich kids sporting flower crowns. 
