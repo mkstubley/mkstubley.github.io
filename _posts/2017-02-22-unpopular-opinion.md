@@ -1,7 +1,7 @@
 ---
 published: true
 layout: single
-Title: unpopular opinion 
+title: unpopular opinion 
 date: 2017-02-22
 ---
 
