@@ -1,5 +1,3 @@
-wear black all the time 
-
 The Mountain Goats released a new LP this week, and while it can’t compete in my mind with the macabre ramblings of John Darnielle’s recent books, *Goths* is worth a few listens. The album stretches back to the 80’s deathrock scene in SoCal, with operatic synth, bass, and disco beats in lieu of guitars ([that’s right, there are no guitars!]( https://themountaingoats.bandcamp.com/album/goths)). 
  
 I think this album takes time to resonate, and it needs to be taken as a whole and not on a song by song basis. At face value, a song like “Unicorn Tolerance” moves in a very different direction from the emotional upheaval of songs from *The Sunset Tree* or *Tallahassee*; despite the jazzy arrangement, a high tolerance for unicorns cannot compare to the frenetic tidings of divorce on “No Children”. Hidden underneath the seemingly upbeat chorus, Darnielle laments, “the thing I've been trying to beat to death, the soft creature that I used to be, the better animal I used to be”. The urgency is still there - this album is still hardcore, [but it’s not that hardcore](https://open.spotify.com/track/00OFG4k3TZhUlXqMPddi2I) comparatively speaking. 
@@ -10,4 +8,4 @@ There is something poignant in thinking about what it means to be a lifelong fan
  
 https://play.spotify.com/user/12130029879/playlist/74XyPlnRJNGYCIxn7phMaZ 
  
-*I’m not talking shit about The Flaming Lips, Wayne Coyne is a veritable rockstar and also [a seemingly nice human being](mkstubley.github.io/_posts/wayne coyne HH.jpg)
+*I’m not talking shit about The Flaming Lips, Wayne Coyne is a veritable rockstar and also [a seemingly nice human being](mkstubley.github.io/_posts/wayne coyne HH.jpg).
