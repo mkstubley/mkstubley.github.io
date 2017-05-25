@@ -20,4 +20,4 @@ There is something poignant in thinking about what it means to be a lifelong fan
  
 https://play.spotify.com/user/12130029879/playlist/74XyPlnRJNGYCIxn7phMaZ 
  
-/*I’m not talking shit about The Flaming Lips, Wayne Coyne is a veritable rockstar and also [a seemingly nice human being](link)
+/*I’m not talking shit about The Flaming Lips, Wayne Coyne is a veritable rockstar and also [a seemingly nice human being](mkstubley.github.io/_posts/wayne coyne HH.jpg)
