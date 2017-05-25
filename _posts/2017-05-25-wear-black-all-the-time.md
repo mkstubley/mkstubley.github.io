@@ -6,6 +6,6 @@ Despite my lack of a common upbringing (unfortunately I was neither a teenage go
  
 There is something poignant in thinking about what it means to be a lifelong fan: of goth culture, or of any other genre of music. How do these fans move through life, and to what degree does their fandom influence their life choices? We arrange ourselves into tribes, especially in the music scene, and the intersection of your corner of the fandom and personal interests becomes a chicken and egg scenario. Flaming Lips fans/* and recreational drug use, Neutral Milk Hotel fans and their propensity to recommend that you listen to *In the Aeroplane Over the Sea*, LCD Soundsystem fans and...well, probably being a dad at this point. Anyone prone to over frequent contemplation of their own mortality will be drawn to *Goths*, and to wearing black all the time. 
  
-https://play.spotify.com/user/12130029879/playlist/74XyPlnRJNGYCIxn7phMaZ 
+{% include spotifyPlaylist.html userid="12130029879" playlistid="74XyPlnRJNGYCIxn7phMaZ" %}
  
-*I’m not talking shit about The Flaming Lips, Wayne Coyne is a veritable rockstar and also [a seemingly nice human being](mkstubley.github.io/_posts/wayne coyne HH.jpg).
+/*I’m not talking shit about The Flaming Lips, Wayne Coyne is a veritable rockstar and also [a seemingly nice human being](mkstubley.github.io/_posts/wayne coyne HH.jpg).
