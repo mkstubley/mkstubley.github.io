@@ -1,3 +1,10 @@
+---
+published: true
+layout: single
+title: playlists > poetry slams 
+date: 2017-05-27
+---
+
 I took a few months hiatus from posting in order to join a writer’s workshop this spring and produce truly god-awful poetry. Seriously. I am a terrible poet. The workshop instructor was a former student of Derek Walcott, and very talented, so you would think that some type of talent osmosis had a chance of rubbing off on me, but sadly not. 
  
 Real life footage of me at a reading~
