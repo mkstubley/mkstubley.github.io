@@ -8,6 +8,7 @@ date: 2017-05-27
 I took a few months hiatus from posting in order to join a writer’s workshop this spring and produce truly god-awful poetry. Seriously. I am a terrible poet. The workshop instructor was a former student of Derek Walcott, and very talented, so you would think that some type of talent osmosis had a chance of rubbing off on me, but sadly not. 
  
 Real life footage of me at a reading~
+
 ![Patrick Starr reads a poem](https://s-media-cache-ak0.pinimg.com/236x/32/74/f0/3274f0eb4c7eb1b8ab7116978e807e48.jpg) 
  
 Here are a few (non-poetry) highlights from this spring: 
