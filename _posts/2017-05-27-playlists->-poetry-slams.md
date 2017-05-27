@@ -5,13 +5,9 @@ title: playlists > poetry slams
 date: 2017-05-27
 ---
 
-I took a few months hiatus from posting in order to join a writer’s workshop this spring and produce truly god-awful poetry. Seriously. I am a terrible poet. The workshop instructor was a former student of Derek Walcott, and very talented, so you would think that some type of talent osmosis had a chance of rubbing off on me, but sadly not. 
+I took a few months hiatus from posting in order to join a writer’s workshop this spring and produce truly god-awful poetry. Seriously. I am a terrible poet. The workshop instructor was a former student of Derek Walcott, and very talented, so you would think that some type of talent osmosis had a chance of rubbing off on me, but sadly not.* 
  
-Real life footage of me at a reading~
-
-![Patrick Starr reads a poem](https://s-media-cache-ak0.pinimg.com/236x/32/74/f0/3274f0eb4c7eb1b8ab7116978e807e48.jpg) 
- 
-Here are a few (non-poetry) highlights from this spring: 
+Here are a few (non-poetry) highlights from this spring's playlist: 
  
 Sylvan Esso - Slack Jaw. Spoiler: I may be compensating for my poetic antics with a fixation on emotive songs about love and depression in this playlist. The talented Amelia Meath sat down with NPR recently, and described this song as "Everything is awesome — and I am still sad." 
  
@@ -29,3 +25,9 @@ The Sea Life - Red Eyes. The anxiety of young adulthood is adeptly summed up in 
  
 Listen here: 
 {% include spotifyPlaylist.html userid="12130029879" playlistid="6OXLysvJE1qZ5ygmRcmigh" %}
+
+
+
+*Real life footage of me at a reading~
+
+![Patrick Starr reads a poem](https://s-media-cache-ak0.pinimg.com/236x/32/74/f0/3274f0eb4c7eb1b8ab7116978e807e48.jpg) 
