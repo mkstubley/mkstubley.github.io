@@ -1,3 +1,10 @@
+---
+published: true
+layout: single
+title: wear black all the time 
+date: 2017-05-25
+---
+
 The Mountain Goats released a new LP this week, and while it can’t compete in my mind with the top-notch macabre ramblings of John Darnielle’s recent books, *Goths* is worth a few listens. The album stretches back to the 80’s deathrock scene in SoCal, with operatic synth, bass, and disco beats in lieu of guitars ([that’s right, there are no guitars!]( https://themountaingoats.bandcamp.com/album/goths)). 
  
 I think this album takes time to resonate, and it needs to be taken as a whole and not on a song by song basis. At face value, a song like “Unicorn Tolerance” is a stark departure from the emotional upheaval of songs from *The Sunset Tree* or *Tallahassee*; despite the jazzy arrangement, a high tolerance for unicorns cannot compare to the frenetic tidings of divorce on “No Children”. Hidden underneath the upbeat chorus, Darnielle laments, “the thing I've been trying to beat to death, the soft creature that I used to be, the better animal I used to be”. The urgency is still there - this album is still hardcore, [but it’s not that hardcore](https://open.spotify.com/track/00OFG4k3TZhUlXqMPddi2I) comparatively speaking. 
