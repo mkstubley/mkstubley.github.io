@@ -7,9 +7,10 @@ date: 2017-07-22
 
 In light of increasingly frequent and worrying think pieces on [irreversible climate change](http://nymag.com/daily/intelligencer/2017/07/climate-change-earth-too-hot-for-humans.html), [buried radioactive materials](https://www.guernicamag.com/the-fallout/), and as-of-yet [frozen plagues](https://www.theguardian.com/environment/2017/jul/20/hell-breaks-loose-tundra-thaws-weatherwatch), here is an apocalyptic playlist. 
 
-Note: I don’t recommend listening during an apocalyptic event. Pack a go bag and gtfo. 
+Note: I don’t recommend listening during an apocalyptic event. Pack a go bag and gtfo!
 
 {% include spotifyPlaylist.html userid="12130029879" playlistid="428Zdz6jHzDYqlzAhVyCuC" %}
+
 
 Highlights: 
 
@@ -34,6 +35,7 @@ Joanna Newsom - Sapokanikan
 A tale of Ozymandian excess from Newsom’s fourth album, *Divers*. Come join me down the rabbit hole of unraveling Joanna Newsom cultural references on twitter [@denovocity](https://twitter.com/denovocity).
 
 Bonus: Best Videos 
+
 Decemberists - Calamity Song 
 {% include youtubePlayer.html id="xJpfK7l404I" %}
 The Decemberists take on DFW’s Infinite Jest, complete with 30-ton tennis ball bombs. 
@@ -46,9 +48,9 @@ Military scientists summon a freaky demon ghost who consumes them all - it’s t
 
 \*Here’s an [excellent piece](https://www.theguardian.com/music/musicblog/2012/may/23/ts-eliot-poetry-pop-music) from The Guardian about the debt music owes to T.S. Eliot 
 
-\**Speaking of apocalyptic sci-fi: if you haven’t caught Sharon Van Etten portraying a musical wunderkind in Netflix’s *The OA*, go watch it right now. Perhaps the movements will transport us to a colder planet? 
+\*\*Speaking of apocalyptic sci-fi: if you haven’t caught Sharon Van Etten portraying a musical wunderkind in Netflix’s *The OA*, go watch it right now. Perhaps the movements will transport us to a colder planet? 
 
-\***Overall, social justice action on the internet proves [a mixed bag](http://www.pewinternet.org/2013/04/25/civic-engagement-in-the-digital-age/) 
+\***Overall, the impact of online social justice action proves [a mixed bag](http://www.pewinternet.org/2013/04/25/civic-engagement-in-the-digital-age/).
 
 
 
